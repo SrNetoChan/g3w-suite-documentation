@@ -182,6 +182,8 @@ Custom webgis client `search` section title.
 
 ``G3W_CLIENT_SEARCH_ENDPOINT``
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Deprecated since v3.8.x**
+
 Search url endpoint for 'searches calling', default `ows`.
  - `ows`: by wms search;
  - `api`: by g3w-suite layer vector API.
