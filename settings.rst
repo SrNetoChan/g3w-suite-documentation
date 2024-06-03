@@ -243,7 +243,12 @@ I.e.::
 
 ``G3W_CLIENT_NOT_SHOW_EMPTY_VECTORLAYER``
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Default is ``False``. Set to ``True`` for remove from webgis TOC vector layer empty, without data.
+Default is ``False``. Set to ``True`` for remove from web-gis TOC vector layer empty, without data.
+
+
+``G3W_CLIENT_SHOW_LOAD_LAYER_ERRORS``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Default is ``False``. Set to ``True`` to show in web-gis(G3W-CLIENT) a error message when some layers are not loaded.
 
 ``GEOCONDING_PROVIDERS``
 ^^^^^^^^^^^^^^^^^^^^^^^^
