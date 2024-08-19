@@ -2,7 +2,7 @@
 
 _**This section describes how to optimize your QGIS projects to publish as a WebGis service.**_
 
-Thanks to the integration with QGIS Server, all the symbology aspects associated with the singoly layers are automatically reproduced on the WebGis service.
+Thanks to the integration with QGIS Server, all the symbology aspects associated with individual layers are automatically reproduced on the WebGis service.
 
 In the QGIS cartographic projects you can set some parameters and options that affect functionalities and contents in the derivative WebGis service, such as:
 * the **webgis service identification name**
